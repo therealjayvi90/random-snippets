@@ -1,0 +1,2 @@
+# Open Terminal.app via Safari on MacOS
+data:text/html,<a href="ssh://">ssh</a>
